@@ -1,0 +1,133 @@
+body{
+    width: 1200px;
+    height: 600px;
+    position: relative;
+}
+
+.tortburchak1{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    margin-left: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    margin-top: 10px;
+}
+
+.tortburchak2{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    margin-left: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    margin-top: 10px;
+    box-shadow: 10px 10px darkgray;
+}
+
+.tortburchak3{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    margin-left: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    margin-top: 100px;
+    box-shadow: 20px 20px darkgray;
+}
+
+.tortburchak4{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    margin-left: 115px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    position: absolute;
+    top: 110px;
+    box-shadow: 25px 25px 20px darkgray;
+}
+
+
+
+
+.tortburchak5{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    box-shadow: 20px 20px #d0d0d0;
+
+}
+
+.tortburchak6{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    box-shadow: 20px 20px darkgray;
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+
+.tortburchak7{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    box-shadow: 0px 20px darkgray;
+    position: absolute;
+    top: 300px;
+    left: 610px;
+}
+
+.tortburchak8{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 1px black solid;
+    border-radius: 15%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 45px 32px;
+    position: absolute;
+    top: 300px;
+    left: 875px;
+    box-shadow: -10px -10px 5px darkgray;
+}

@@ -1,0 +1,234 @@
+body{
+    width: 1200px;
+    height: 600px;
+    background-color: black;
+    position: relative;
+}
+
+.barmoq1{
+    width: 75px;
+    height: 200px;
+    border: 1px solid white;
+    border-radius: 18%;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-bottom: 3px solid white;
+    background-color: white;
+    position: absolute;
+    top: 350px;
+    left: 500px;
+}
+
+.chiziq1{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 20px;
+    left: 18px;
+    background-color: blue;
+}
+
+.chiziq2{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 35px;
+    left: 18px;
+    background-color: blue;
+}
+
+.tirnoq{
+    width: 55px;
+    height: 45px;
+    border: 1px solid blue;
+    border-radius: 40%;
+    background-color: blue;
+    position: absolute;
+    top: 145px;
+    left: 10px;
+}
+
+.barmoqlaa{
+    animation-name: barmoqlarr;
+    animation-direction: normal;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes barmoqlarr {
+    0%{
+        transform: translate(0,0);
+    }
+    50%{
+        transform: translate(0,-50px);
+    }
+    100%{
+        transform: translate(0,0);
+    }
+}
+
+.barmoq2{
+    width: 78px;
+    height: 235px;
+    border: 1px solid white;
+    border-radius: 18%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-bottom: 3px solid white;
+    background-color: white;
+    position: absolute;
+    top: 330px;
+    left: 585px;
+}
+
+.chiziq3{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: blue;
+}
+
+.chiziq4{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    background-color: blue;
+}
+
+.tirnoq2{
+    width: 60px;
+    height: 50px;
+    border: 1px solid blue;
+    border-radius: 40%;
+    background-color: blue;
+    position: absolute;
+    top: 175px;
+    left: 10px;
+}
+
+
+.barmoq3{
+    width: 78px;
+    height: 265px;
+    border: 2px solid white;
+    border-radius: 18%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-bottom: 3px solid white;
+    background-color: white;
+    position: absolute;
+    top: 315px;
+    left: 675px;
+}
+
+.chiziq5{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: blue;
+}
+
+.chiziq6{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    background-color: blue;
+}
+
+.tirnoq3{
+    width: 60px;
+    height: 50px;
+    border: 1px solid blue;
+    border-radius: 40%;
+    background-color: blue;
+    position: absolute;
+    top: 205px;
+    left: 10px;
+}
+
+
+.barmoq4{
+    width: 78px;
+    height: 235px;
+    border: 1px solid white;
+    border-radius: 18%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-bottom: 3px solid white;
+    background-color: white;
+    position: absolute;
+    top: 330px;
+    left: 765px;
+}
+
+.chiziq7{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: blue;
+}
+
+.chiziq8{
+    width: 35px;
+    height: 5px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    background-color: blue;
+}
+
+.tirnoq4{
+    width: 60px;
+    height: 50px;
+    border: 1px solid blue;
+    border-radius: 40%;
+    background-color: blue;
+    position: absolute;
+    top: 175px;
+    left: 10px;
+}
+
+
+.barmoq5{
+    width: 75px;
+    height: 80px;
+    border-radius: 18%;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 25px;
+    background-color: white;
+    position: absolute;
+    top: 380px;
+    left: 855px;
+}
+
+.tirnoq5{
+    width: 65px;
+    height: 20px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 20px;
+    background-color: blue;
+    margin-top: -5px;
+}
+
+

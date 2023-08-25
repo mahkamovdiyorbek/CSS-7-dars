@@ -1,0 +1,66 @@
+body{
+    width: 1200px;
+    height: 600px;
+}
+
+.qizil1{
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 400px;
+    background-color: red;
+    box-shadow: 0px 0px 100px blue;
+    border: 1px red solid;
+}
+
+.qizil2{
+    width: 200px;
+    height: 200px;
+    margin-top: -202px;
+    margin-left: 800px;
+    background-color: red;
+    box-shadow: 65px 0px 100px blue;
+    border: 1px red solid;
+}
+
+.qizil3{
+    width: 200px;
+    height: 200px;
+    margin-top: -202px;
+    margin-left: 1200px;
+    background-color: red;
+    box-shadow: 40px 40px 25px blue;
+    border: 1px red solid;
+}
+
+
+
+.qizil4{
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 400px;
+    background-color: red;
+    box-shadow: 0px 0px 100px inset blue;
+    border: 1px red solid;
+}
+
+.qizil5{
+    width: 200px;
+    height: 200px;
+    margin-top: -202px;
+    margin-left: 800px;
+    background-color: red;
+    box-shadow: 65px 0px 100px inset blue;
+    border: 1px red solid;
+}
+
+.qizil6{
+    width: 200px;
+    height: 200px;
+    margin-top: -202px;
+    margin-left: 1200px;
+    background-color: red;
+    box-shadow: 40px 40px 25px inset blue;
+    border: 1px red solid;
+}

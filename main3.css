@@ -1,0 +1,27 @@
+body{
+    width: 2000px;
+    height: 600px;
+    background-color: black;
+}
+
+.kvadrat1{
+    width: 400px;
+    height: 80px;
+    border: 1px white solid;
+    text-align: center;
+    color: white;
+    margin-top: 350px;
+    margin-left: 700px;
+    background: linear-gradient(180deg,indianred,deepskyblue,mediumspringgreen);
+}
+
+.kvadrat2{
+    width: 400px;
+    height: 80px;
+    border: 1px white solid;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    margin-left: 700px;
+    background: linear-gradient(90deg,orange,yellow,green,blue,blueviolet);
+}

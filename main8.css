@@ -1,0 +1,27 @@
+body{
+    width: 1200px;
+    height: 600px;
+    background-color: black;
+
+}
+
+.kvadrat{
+    width: 640px;
+    height: 340px;
+    margin-top: 225px;
+    margin-left: 700px;
+    box-sizing: border-box;
+    background-color: black;
+    background: linear-gradient(40deg,blueviolet,blue,green,lawngreen,yellow,orange);
+    z-index: -1;
+}
+
+.kvadrat1{
+    width: 625px;
+    height: 325px;
+    background-color: black;
+    margin-top: -333px;
+    margin-left: 707px;
+    box-sizing: border-box;
+    background: linear-gradient(0deg,black,black);
+}

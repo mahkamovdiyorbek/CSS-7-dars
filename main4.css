@@ -1,0 +1,14 @@
+body{
+    width: 2000px;
+    height: 600px;
+    background-color: black;
+}
+
+.kvadrat{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 350px;
+    left: 850px;
+    background: radial-gradient(red,orange,yellow,green);
+}

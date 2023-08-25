@@ -1,0 +1,29 @@
+body{
+    width: 500px;
+    height: 400px;
+    background: linear-gradient(80deg,blueviolet,blue);
+}
+
+.kvadrat{
+    width: 100px;
+    height: 100px;
+    border-radius: 15%;
+    background-color: white;
+
+}
+
+.yozuv{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.yozuv1{
+    /*background: linear-gradient(90deg,orange,green);*/
+}
+
+.yozuv2{
+    position: absolute;
+    top: 0.5px;
+    left: 32px;
+}
